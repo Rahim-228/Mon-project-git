@@ -1,1 +1,2 @@
-# mon-project-git
+# mon-project-git## Objectif du projet
+Apprendre Git et GitHub en pratique.
